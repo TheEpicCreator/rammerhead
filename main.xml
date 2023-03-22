@@ -1,6 +1,6 @@
 <Module>
 <ModulePrefs title="Retro Bowl"/>
 <Content type="html">
-<![CDATA[ <!doctype html><html lang="en"><head><title>r.learnmathub.com</title><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><script defer="defer" src="https://cdn.jsdelivr.net/gh/TheEpicCreator/rammerhead@latest/main.js"></script><link href="https://cdn.jsdelivr.net/gh/TheEpicCreator/rammerhead@latest/main.css" rel="stylesheet"></head><body><noscript>You're going to need to enable JavaScript to run this browser.</noscript><div id="root"></div></body></html> ]]>
+<![CDATA[ <html lang="en"><head><title>r.learnmathub.com</title><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><script defer="defer" src="https://cdn.jsdelivr.net/gh/TheEpicCreator/rammerhead@latest/main.js"></script><link href="https://cdn.jsdelivr.net/gh/TheEpicCreator/rammerhead@latest/main.css" rel="stylesheet"></head><body><noscript>You're going to need to enable JavaScript to run this browser.</noscript><div id="root"></div></body></html> ]]>
 </Content>
 </Module>
